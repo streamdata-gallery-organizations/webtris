@@ -1,4 +1,3 @@
----
 swagger: "2.0"
 x-collection-name: WebTRIS
 x-complete: 1
@@ -243,4 +242,3 @@ paths:
       - Metadatathe
       - LayerId
       - Specified
----
